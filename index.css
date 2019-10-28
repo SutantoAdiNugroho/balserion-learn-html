@@ -1,5 +1,5 @@
 p {
     color: rgb(247, 195, 55); 
-    color-font : green;
+    font-family: 'Times New Roman', Times, serif;
     background-color: rgb(242, 255, 66);
 }
